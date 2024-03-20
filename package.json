@@ -1,0 +1,17 @@
+{
+  "name": "base-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colorize-console": "^1.0.5",
+    "makewaclient-baileys": "^1.1.4",
+    "moment-timezone": "^0.5.45"
+  }
+}

@@ -1,0 +1,4 @@
+auth/session
+node_modules
+.env
+package-lock.json
